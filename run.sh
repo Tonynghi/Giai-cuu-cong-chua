@@ -1,1 +1,1 @@
-./main tc1_input
+./main
